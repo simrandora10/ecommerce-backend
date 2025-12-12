@@ -1,4 +1,7 @@
-<h1 align="center">🛒 E-commerce Backend (Django + DRF + JWT)</h1>
+<p align="center">
+  <img src="https://i.imgur.com/9yYi1j6.png" width="100%" alt="Simran E-commerce Backend Banner">
+</p>
+
 
 <p align="center">
 A complete, production-grade E-commerce Backend built using  
